@@ -1,0 +1,11 @@
+# crear entorno virtual
+python -m venv venv
+
+# activar el entorno virtual
+bash
+source venv/Scripts/activate
+
+# desactivar el entonro virtual
+deactivate
+
+pip list
