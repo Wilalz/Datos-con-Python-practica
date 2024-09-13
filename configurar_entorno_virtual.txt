@@ -8,4 +8,9 @@ source venv/Scripts/activate
 # desactivar el entonro virtual
 deactivate
 
-pip list
+# Crear el listado de las librerias instaladas
+pip freeze > requirementes.txt
+
+
+# Trabajar con 
+Al crear un ar
